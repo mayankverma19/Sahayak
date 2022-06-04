@@ -27,7 +27,7 @@ you can visit our presentation for the same here - https://docs.google.com/prese
 - [Using Sahyogi](#using-sahayogi)
 - [Building Sahyogi from source](#building-sahyogi-from-source)
 - [Website](#Website-Link)
-- [Youtube](#Youtube-Video)
+
 
 
 # using sahayogi
@@ -41,11 +41,6 @@ visit this link for access - https://sahayak1.netlify.app/
 - portis account with 1 matic token(make portis account at portis.io and get matic token from https://faucet.matic.network/)
 
 
-# Youtube Video
-
-https://youtu.be/Nm3WcWdIvDk
-
-
 # Building Sahayogifrom source
 
 Sahayak is written in Javascript (Javascript is required).
@@ -57,5 +52,4 @@ Sahayak is written in Javascript (Javascript is required).
 5. open browser on http://localhost:9000/
 
 
-original repository link - https://gitlab.com/3scava1i3r/Sahayak
 
