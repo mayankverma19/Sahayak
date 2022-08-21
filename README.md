@@ -19,7 +19,7 @@ Specifically, blockchain strengthens existing solutions related to the core elem
 - Authentication: Proving who created or changed the document, in a way that PDFs can’t.
 - Non-repudiation: Not allowing someone to deny that they created or changed the document, as long as each iteration is stored in the blockchain.
 
-you can visit our presentation for the same here - https://docs.google.com/presentation/d/1G0lBL_La63aIMGul5h9ILMJDQ__NrHjN7lMFn1oyQSo/edit?usp=sharing
+
 
 ## Contents
 
