@@ -1,19 +1,18 @@
-var path = require('path');
-
+var path = require("path");
 
 module.exports = {
-  entry: './src/index.js',
-  node: { global: true, fs: 'empty' },
+  entry: "./src/index.js",
+  node: { global: true, fs: "empty" },
   mode: "development",
-  target: 'web',
+  target: "web",
   output: {
-    path: path.join(__dirname, 'dist'),
-    filename: 'bundle.js',
+    path: path.join(__dirname, "dist"),
+    filename: "bundle_latest.js",
     //libraryTarget: 'umd'
   },
   devServer: {
-    contentBase: path.join(__dirname, '/'),
+    contentBase: path.join(__dirname, "/"),
     compress: true,
-    port: 9000
-  }
+    port: 9000,
+  },
 };
